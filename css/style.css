@@ -1,0 +1,65 @@
+
+body    {background-image: url(../img/back.jpg);}
+
+.Header{    
+    width:97%;height:12.00%;
+    position: fixed;
+    top:1.5%;
+    left:1%;
+    margin-right: 2%;
+    z-index: 1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.jane{width:70%;height:40%;
+    margin-top:-23%;
+    margin-left: 15%;
+    position: absolute;
+    z-index: -1;
+    background-image: url("../img/top.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Judul{font-family: comic sans;
+    color: white;
+    font-size:60px;
+    top: 2%;}
+
+.Who{
+    text-align: center;
+    font-family: comic sans
+    width: 70%;height: 40%;
+    margin-top: 33%;
+    }
+
+.born{
+    font-size: 20px;
+    text-align: center;
+    font-family: comic sans
+    margin-top: 0%;}
+
+.goodall{
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.8);
+    border-radius: 20px 20px 20px 20px;}
+
+.Movie{
+    text-align: center;
+    font-family: comic sans
+    margin-top: 0%;}
+
+.the{
+    font-size: 20px;
+    text-align: center;
+    font-family: comic sans
+    margin-top: 0%;}
+
+.in{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0%;}
